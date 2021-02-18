@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchiveService", "ArchiveService\ArchiveService.csproj", "{7C51C10C-9A64-4603-83DC-F57680A7A651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C51C10C-9A64-4603-83DC-F57680A7A651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C51C10C-9A64-4603-83DC-F57680A7A651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C51C10C-9A64-4603-83DC-F57680A7A651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C51C10C-9A64-4603-83DC-F57680A7A651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454A30AE-F49D-41DD-9D53-110856DB0FDB}
+	EndGlobalSection
+EndGlobal
